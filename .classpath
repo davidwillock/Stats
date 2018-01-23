@@ -12,7 +12,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
@@ -104,5 +104,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/home/charlie/Develop/Java/javaLibs/spring-context-3.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/home/charlie/Develop/Java/javaLibs/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/home/charlie/Develop/Java/javaLibs/retrofit-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/home/charlie/Develop/Java/javaLibs/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/home/charlie/Develop/Java/javaLibs/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/home/charlie/Develop/Java/javaLibs/converter-jackson-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/home/charlie/Develop/Java/javaLibs/commons-codec-1.9.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
